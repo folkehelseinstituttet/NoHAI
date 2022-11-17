@@ -9,7 +9,7 @@ There is currently no published articles on this topic, but we're working on pub
 
 ### Discovering HAIs
 
-The HAI_COV.R file creates a dataset with info on hospital stays and positive test days, and classify each positive test as definite, probable, indeterminate and community associated infection if they were in hospital at least one of 1-7 days before positive test.
+The HAI_COV.R file creates a dataset with info on hospital stays and positive test days, and classify each positive test as definite, probable, indeterminate HAI or community associated infection if they were in hospital at least one of 1-7 days before positive test.
 
 ### Cluster analysis of HAIs
 
