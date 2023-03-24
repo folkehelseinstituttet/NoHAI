@@ -8,9 +8,10 @@ Both clusters of healthcare-associated infections in hospitals and clusters in l
 
 Gravningen, K., Nymark, P., Wyller, T., & Kacelnik, O. (2022). A new automated national register-based surveillance system for outbreaks in long-term care facilities in Norway detected three times more severe acute respiratory coronavirus virus 2 (SARS-CoV-2) clusters than traditional methods. Infection Control & Hospital Epidemiology, 1-7. doi:10.1017/ice.2022.297
 
-Skagseth, H., Danielsen, A. S., Kacelnik, O., Trondsen, U. T., Berg, T. C., Sorknes, N. K., Eriksen-Volle, H-M. (2023)
-Clusters of healthcare-associated SARS-CoV-2 infections in Norwegian hospitals detected by a fully automatic register-based surveillance system,
-Journal of Hospital Infection. doi: 10.1016/j.jhin.2023.02.014.
+Skagseth, H., Danielsen, A. S., Kacelnik, O., Trondsen, U. T., Berg, T. C., Sorknes, N. K., Eriksen-Volle, H-M. (2023). Clusters of healthcare-associated SARS-CoV-2 infections in Norwegian hospitals detected by a fully automatic register-based surveillance system. Journal of Hospital Infection. doi: 10.1016/j.jhin.2023.02.014.
+
+Skagseth, H., Jørgensen, S. B., Reilly, J., Kacelnik, O. (2023). A new method for near real-time, nationwide surveillance of nosocomial COVID-19 in Norway: providing data at all levels of the healthcare system, March 2020 to March 2022. Eurosurveillance, 28, 2200493, doi: 10.2807/1560-7917.ES.2023.28.12.2200493
+
 
 ## Healthcare-associated infections (HAI) in hospitals
 
